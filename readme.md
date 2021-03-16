@@ -4,6 +4,5 @@ Repositório com os labs de MC322- Programação Orientada a objeto
 
 # Quem sou eu 
 
-Olá. Meu nome é Gabriel Lima, Tenho 18 anos.\
-Entrei na unicamp em 2020 e estou bastante empolgado para a disciplina de orientação a objeto
+Olá. Meu nome é Gabriel Lima, Tenho 18 anos. Entrei na unicamp em 2020 e estou bastante empolgado para a disciplina de orientação a objeto
 
