@@ -6,4 +6,4 @@
 ~~~
 
 ## Notebook 1 sobre Emprestimos
-> [Resolução](/notebook/emprestimo01-ra177836.ipynb)
+> [Resolução](https://github.com/Rai0Catodic0/MC322/blob/main/Lab01/emprestimo01-ra177836.ipynb)
