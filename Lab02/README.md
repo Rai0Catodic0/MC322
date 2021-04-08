@@ -6,4 +6,4 @@
 ~~~
 
 ## Notebook 1 Sobre Estruturas Da Linguagem Java
-> [Resolução](https://github.com/Rai0Catodic0/MC322/blob/main/Lab01/emprestimo01-ra177836.ipynb)
+> [Resolução](https://github.com/Rai0Catodic0/MC322/blob/main/Lab02/notebook/lab02-java-estruturas-ra177836.ipynb)
