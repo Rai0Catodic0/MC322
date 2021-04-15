@@ -18,7 +18,7 @@
 ~~~
 
 ## Notebook Sobre Lombriga no Aquário
-> [Resolução](https://github.com/Rai0Catodic0/MC322/blob/main/Lab02/notebook/lab02-java-estruturas-ra177836.ipynb)
+> [Resolução](https://github.com/Rai0Catodic0/MC322/blob/main/Lab03/notebook/lab-lombriga-ra177836.ipynb)
 
 ## Arquivos Java sobre Lombriga no Aquário
-> [Resolução]()
+> [Resolução](https://github.com/Rai0Catodic0/MC322/tree/main/Lab03/src/mc322/lab03)
